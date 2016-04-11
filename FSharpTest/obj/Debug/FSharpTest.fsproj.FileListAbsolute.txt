@@ -1,0 +1,15 @@
+c:\users\cecho\documents\visual studio 2015\Projects\FSharpTest\bin\Debug\FSharp.Data.SqlProvider.dll
+C:\Users\cecho\Documents\Visual Studio 2015\Projects\FSharpTest\obj\Debug\FSharpTest.fsproj.FSharpTest.exe.config
+C:\Users\cecho\Documents\Visual Studio 2015\Projects\FSharpTest\bin\Debug\FSharpTest.XML
+C:\Users\cecho\Documents\Visual Studio 2015\Projects\FSharpTest\bin\Debug\FSharp.Core.dll
+C:\Users\cecho\Documents\Visual Studio 2015\Projects\FSharpTest\bin\Debug\FSharp.Data.dll
+C:\Users\cecho\Documents\Visual Studio 2015\Projects\FSharpTest\bin\Debug\Npgsql.dll
+C:\Users\cecho\Documents\Visual Studio 2015\Projects\FSharpTest\bin\Debug\FSharp.Data.SqlProvider.pdb
+C:\Users\cecho\Documents\Visual Studio 2015\Projects\FSharpTest\bin\Debug\FSharp.Data.pdb
+C:\Users\cecho\Documents\Visual Studio 2015\Projects\FSharpTest\bin\Debug\FSharp.Data.xml
+C:\Users\cecho\Documents\Visual Studio 2015\Projects\FSharpTest\bin\Debug\FSharp.Core.xml
+C:\Users\cecho\Documents\Visual Studio 2015\Projects\FSharpTest\bin\Debug\Npgsql.xml
+C:\Users\cecho\Documents\Visual Studio 2015\Projects\FSharpTest\obj\Debug\FSharpTest.fsprojResolveAssemblyReference.cache
+C:\Users\cecho\Documents\Visual Studio 2015\Projects\FSharpTest\obj\Debug\FSharpTest.exe
+C:\Users\cecho\Documents\Visual Studio 2015\Projects\FSharpTest\obj\Debug\FSharpTest.pdb
+C:\Development\FSharpTest\obj\Debug\FSharpTest.fsproj.FSharpTest.exe.config

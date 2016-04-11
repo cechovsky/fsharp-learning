@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharpTest", "FSharpTest.fsproj", "{338EB294-09E7-4FF9-8187-5CCB49534592}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SqlProvider", "..\..\..\..\..\..\Development\SQLProvider\src\SQLProvider\SqlProvider.fsproj", "{4EEA1AD8-E8A9-4D54-BC39-D5F536366945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{338EB294-09E7-4FF9-8187-5CCB49534592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338EB294-09E7-4FF9-8187-5CCB49534592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338EB294-09E7-4FF9-8187-5CCB49534592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338EB294-09E7-4FF9-8187-5CCB49534592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EEA1AD8-E8A9-4D54-BC39-D5F536366945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EEA1AD8-E8A9-4D54-BC39-D5F536366945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EEA1AD8-E8A9-4D54-BC39-D5F536366945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EEA1AD8-E8A9-4D54-BC39-D5F536366945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
